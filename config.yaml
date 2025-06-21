@@ -6,7 +6,7 @@ database:
   dbname: "items_vs0o"
   username: "customer"
   password: "123"
-  max_connections: 20  # Increase from 10
+  max_connections: 100  # Increase from 10
 
 server:
   host: "0.0.0.0"
